@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "781939606814",
+    "firebase_url": "https://catchphrase-plus.firebaseio.com",
+    "project_id": "catchphrase-plus",
+    "storage_bucket": "catchphrase-plus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781939606814:android:d7dd5067106b900f",
+        "android_client_info": {
+          "package_name": "goldenclaw.catchphrase.plus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781939606814-11ft1fppufbiuo2uvkcs1kr65ukl6uha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDadujG6Xmu0krhcy2LsoS57biF9ThM24I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
